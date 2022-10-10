@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Python, HTML5, CSS3, JavaScript, SCRUM, Music, how to be a good husband and dad...
 - 💻 I’m looking to collaborate with anything within my capabilities.
 - 📫 Reach me on my LinkedIn page: https://www.linkedin.com/in/junotaugusto/
-- 👔 Here's my resume: https://junotaugusto.github.io/portfolio/
+- 👔 Here's my resume: https://junotaugusto.github.io/portfolio/ (for now, available only in portuguese 😅)
 <!---
 junotaugusto/junotaugusto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
