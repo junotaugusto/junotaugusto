@@ -1,17 +1,21 @@
 ### Hi there 👋, my name is Junot
 #### French name, but that's it..
 ![French name, but that's it..;)](https://media.discordapp.net/attachments/1071928370213957644/1072127707195899934/banner.png?width=1080&height=441)
+ 
 
-I graduated in Journalism since 2006. Currently, I am studying Software Engineering because I am passionate about technology!
 
-## Some skills
-- 👉 JS
-- 🖍 HTML
-- 😎 CSS
-- 🐍 PYTHONSkills: JS / HTML / CSS / PYTHON
+## Priorities...
+✝️ The Lord 👨‍👩‍👦‍👦 Family 🖥 Work
 
-- 💻 I’m currently working on a brazilian web radio as a journalist. Here's the link: https://almalondrina.com.br/ 
-- 📫 How to reach me: junotpcordeiro@gmail.com 
+## Some things i like...
+ 👉 JS 🖍 HTML 😎 CSS 🐍 PYTHON 🖌 Writing 🍕 Pizza 
+ 
+## What's Up? 
+- 📻 I’m currently working on a brazilian web radio as a journalist. Here's the link: https://almalondrina.com.br/ 
+- 💻 I graduated in Journalism  in 2006. Currently, I am studying Software Engineering because I am passionate about technology!
+
+## Where am i?
+- 📫 reach me at junotpcordeiro@gmail.com 
 
 ## Enjoy the ride!
 
