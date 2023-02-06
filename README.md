@@ -10,10 +10,10 @@ I graduated in Journalism since 2006. Currently, I am studying Software Engineer
 - 😎 CSS
 - 🐍 PYTHONSkills: JS / HTML / CSS / PYTHON
 
-- 🔭 I’m currently working on a brazilian web radio as a journalist. Here's the link: https://almalondrina.com.br/ 
+- 💻 I’m currently working on a brazilian web radio as a journalist. Here's the link: https://almalondrina.com.br/ 
 - 📫 How to reach me: junotpcordeiro@gmail.com 
 
-## Examples of Work:
+## Enjoy the ride!
 
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" widht="200px">
 
