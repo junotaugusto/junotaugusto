@@ -4,7 +4,11 @@
 
 I graduated in Journalism since 2006. Currently, I am studying Software Engineering because I am passionate about technology!
 
-Skills: JS / HTML / CSS / PYTHON
+##Skills
+- 👉 JS
+- 🖍 HTML
+- 😎 CSS
+- 🐍 PYTHONSkills: JS / HTML / CSS / PYTHON
 
 - 🔭 I’m currently working on a brazilian web radio as a journalist. Here's the link: https://almalondrina.com.br/ 
 - 📫 How to reach me: junotpcordeiro@gmail.com 
