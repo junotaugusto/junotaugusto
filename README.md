@@ -4,7 +4,7 @@
 
 I graduated in Journalism since 2006. Currently, I am studying Software Engineering because I am passionate about technology!
 
-##Skills
+## Some skills
 - 👉 JS
 - 🖍 HTML
 - 😎 CSS
