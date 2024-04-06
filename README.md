@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Junot
 #### French name, but that's it..
-![French name, but that's it..;)](https://media.discordapp.net/attachments/1071928370213957644/1072127707195899934/banner.png?width=1080&height=441)
- 
-
+![French name, but that's it..;)
 
 ## Priorities...
 ✝️ The Lord 👨‍👩‍👦‍👦 Family 🖥 Work
@@ -12,7 +10,7 @@
  
 ## What's Up? 
 - 📻 I’m currently working on a brazilian web radio as a journalist. Here's the link: https://almalondrina.com.br/ 
-- 💻 I graduated in Journalism  in 2006. Currently, I am studying Software Engineering because I am passionate about technology!
+- 💻 I graduated in Journalism  in 2006. Currently, I am studying Cyber Security because I am passionate about technology!
 
 ## Where am i?
 - 📫 reach me at junotpcordeiro@gmail.com 
