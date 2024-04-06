@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Junot
 #### French name, but that's it..
-![French name, but that's it..;)
 
 ## Priorities...
 ✝️ The Lord 👨‍👩‍👦‍👦 Family 🖥 Work
